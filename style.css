@@ -221,3 +221,6 @@ h1, h2, h3, p { margin: 0; font-weight: 500; }
   .masthead h1.glitching::before,
   .masthead h1.glitching::after { animation-duration: 1ms; animation-iteration-count: 1; }
 }
+
+/* Keep the welcome face intact when the heading wraps. */
+.welcome-face { display: inline-block; white-space: nowrap; overflow-wrap: normal; word-break: normal; }
