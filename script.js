@@ -1,11 +1,3 @@
-/* OWNER-EDITABLE CONTENT -------------------------------------------------
- * Add objects to a section's entries array; they appear from top to bottom.
- * Each entry can have image or video, title, subtitle, extraInformation, and HTML body.
- * Use ordinary HTML in body for paragraphs, videos, or other media.
- * Section IDs must stay unique. See README.md for examples.
- * A blank symbolImage.src deliberately leaves Alive/Breath completely empty.
- * Add a recommendation URL to make its label a link.
- */
 const siteConfig = {
   title: ["Digitally Free,", "Spiritually in Love"],
   mastheadImage: { src: "", alt: "Site Buddy" },
@@ -27,6 +19,10 @@ const layers = [
     { id: "blog-1", title: "O' Brave New World", layout: "writing", entries: [
       { image: { src: "", alt: "" }, title: "Hello Brave New World", subtitle: "10-15/16/17-26", extraInformation: "BraveNewW0rld.Dystopia", body: "<p>This was created as a spcae for me to share myself with the internet that isn't on one of the major social media platforms. </p>" }, 
   ] },
+[{ id: "blog-1", title: “Hulaween 2026”, subtitle: “What I was missing and had all along”, 
+extraInformation: “10-26-2026”, 
+body: “<p>She was everything and she showed me that I am everything and to be free too: a being deserving of love. </p>},
+] },
   ] },
   { id: "writings", title: "Writings", layout: "writing", sections: [
     { id: "writings-1", title: "Endless Nightmare", layout: "writing", entries: [
