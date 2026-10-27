@@ -18,9 +18,7 @@ const layers = [
   { id: "blog", title: "MySoapBox.000", layout: "writing", sections: [
     { id: "blog-1", title: "O' Brave New World", layout: "writing", entries: [
       { image: { src: "", alt: "" }, title: "Hello Brave New World", subtitle: "10-15/16/17-26", extraInformation: "BraveNewW0rld.Dystopia", body: "<p>This was created as a space for me to share myself with the internet that isn't on one of the major social media platforms. </p>" },
-      { id: "blog-1", title: "Hulaween 2026", layout: "writing", entries: [
-        { image: { src: "", alt: "" }, title: "What Changed My Life", subtitle: "What I Was Missing & Had All Along", extraInformation: "10-26-2026", body: "<p> She was everything and she showed me that I am everything and to be free too: a being deserving of love.</p>" },
-      ] }, 
+      { image: { src: "", alt: "" }, title: "Hulaween 2026", subtitle: "What Changed My Life", extraInformation: "10-26-2026", body: "<p> She was everything and she showed me that I am everything and to be free too: a being deserving of love.</p>" },
   ] }, 
   ] },
   { id: "writings", title: "Writings", layout: "writing", sections: [
