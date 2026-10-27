@@ -21,7 +21,7 @@ const layers = [
       { id: "blog-1", title: “Hulaween 2026”, subtitle: “What I was missing and had all along”, 
 extraInformation: “10-26-2026”, 
 body: “<p>She was everything and she showed me that I am everything and to be free too: a being deserving of love. </p>},
-    }, 
+    }, ]
   ] }, 
   ] },
   { id: "writings", title: "Writings", layout: "writing", sections: [
