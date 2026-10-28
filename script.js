@@ -130,7 +130,9 @@ layers.forEach((layer) => {
   const group = element("div", "layer-group");
   const toggle = element("button", "layer-heading");
   toggle.type = "button";
-  const label = element("span", "layer-open", layer.title);
+  const label = element("span", `layer-open${layer.title === "(☝ ՞ਊ ՞)☝" ? " keep-together" : ""}`,
+  layer.title
+  );
   const arrow = element("span", "layer-toggle", "›");
   arrow.setAttribute("aria-hidden", "true");
   toggle.append(label, arrow);
