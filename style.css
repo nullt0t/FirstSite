@@ -78,6 +78,7 @@ h1, h2, h3, p { margin: 0; font-weight: 500; }
 .layer-group + .layer-group { margin-top: 21px; }
 .layer-heading { display: flex; align-items: center; width: 100%; min-width: 0; padding: 0; text-align: left; }
 .layer-open { display: block; min-width: 0; padding: 5px; min-height: 36px; flex: 1; text-align: left; white-space: normal; overflow-wrap: anywhere; line-height: 1.35; font-size: 23.75px; letter-spacing: -.04em; }
+.layer-open.keep-together { white-space: nowrap; overflow-wrap: normal; }
 .layer-toggle { display: none; }
 .sublayers { list-style: none; padding: 3px 0 0 25px; margin: 0; }
 .sublayer { color: var(--sublayer); width: 100%; min-width: 0; text-align: left; padding: 7px 0; font-size: 15px; line-height: 1.5; white-space: normal; overflow-wrap: anywhere; display: flex; gap: 7px; }
