@@ -20,7 +20,7 @@ const layers = [
       { image: { src: "", alt: "" }, title: "Hello Brave New World", subtitle: "10-15/16/17-26", extraInformation: "BraveNewW0rld.Dystopia", body: "<p>This was created as a space for me to share myself with the internet that isn't on one of the major social media platforms. </p>" },
   ] },
     { id: "blog-2", title: "Hulaween 2026 (☝ ՞ਊ ՞)☝", layout: "writing", entries: [
-      { image: { src: "", alt: "" }, title: "Who Changed My Life", subtitle: "What I Was Missing & Had All Along", extraInformation: "10-26-2026", body: "<p> She was everything and she showed me that I am everything and to be free too: a being deserving of love.</p>" },
+      { image: { src: "", alt: "" }, title: "Who Changed My Life", subtitle: "10-26-2026", extraInformation: "What I Was Missing & Had All Along", body: "<p> She was everything and she showed me that I am everything and to be free too: a being deserving of love.</p>" },
       ] },
       { id: "blog-3", title: "The World(is)F#cked", layout: "writing", entries: [
       { image: { src: "", alt: "" }, title: "ThisPlace(is)On-Fire", subtitle: "11-XX-26", extraInformation: "BraveNewW0rld.Dystopia", body: "<p>I love love love my surrogate activities for they keep me distracted and uncaring of the rest of the world especially since the activity involves the destruction of it on some capacoty. I take great distractive pleasure in them so much.</p>" },
