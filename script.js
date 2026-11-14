@@ -41,6 +41,9 @@ const layers = [
     { id: "Upload-3", title: "ILMSO(♥ω♥*).exe", layout: "media", entries: [
       { image: { src: "Nvdes(◕__◕✿)/ILMSO01FinaleFrame.png", alt: "ILMSO Piece" }, audio: { src: "", label: "" }, video: { src: "", label: "" } },
     ] },
+     { id: "Upload-4", title: "BoxPiece.exe", layout: "media", entries: [
+      { image: { src: "Box_Wicked_Oni.png", alt: "OniBoxDesign" }, audio: { src: "", label: "" }, video: { src: "", label: "" } },
+    ] },
   ] },
   
 ];
