@@ -39,7 +39,7 @@ const layers = [
       { image: { src: "", alt: "" }, audio: { src: "", label: "" }, video: { src: "", label: "" } },
     ] },
     { id: "Upload-3", title: "ILMSO(♥ω♥*).exe", layout: "media", entries: [
-      { image: { src: "https://github.com/nullt0t/FirstSite/blob/main/Nvdes(◕__◕✿)/ILMSO01FinaleFrame.png", alt: "ILMSO Piece" }, audio: { src: "", label: "" }, video: { src: "", label: "" } },
+      { image: { src: "Nvdes(◕__◕✿)/ILMSO01FinaleFrame.png", alt: "ILMSO Piece" }, audio: { src: "", label: "" }, video: { src: "", label: "" } },
     ] },
   ] },
   
