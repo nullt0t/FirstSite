@@ -38,7 +38,11 @@ const layers = [
     { id: "random-2", title: "(ó﹏ò｡).exe", layout: "media", entries: [
       { image: { src: "", alt: "" }, audio: { src: "", label: "" }, video: { src: "", label: "" } },
     ] },
+    { id: "Upload-3", title: "ILMSO01FinaleFrame.exe", layout: "media", entries: [
+      { image: { src: "https://github.com/nullt0t/FirstSite/blob/main/Nvdes(◕__◕✿)/ILMSO01FinaleFrame.png", alt: "ILMSO Piece" }, audio: { src: "", label: "" }, video: { src: "", label: "" } },
+    ] },
   ] },
+  
 ];
 
 /* FIXED WINDOW / TABS -------------------------------------------------- */
